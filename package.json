@@ -1,0 +1,25 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "ImageBase64.js",
+  "scripts": {
+    "start": "node --experimental-modules script.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NashatAlzaatreh/base64.git"
+  },
+  "keywords": [],
+  "author": "Nashat Alzaatreh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NashatAlzaatreh/base64/issues"
+  },
+  "homepage": "https://github.com/NashatAlzaatreh/base64#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "exceljs": "^4.3.0"
+  }
+}
